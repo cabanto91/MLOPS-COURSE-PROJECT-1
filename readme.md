@@ -7,5 +7,5 @@
 1. *Paso 01 para Credenciales y Conectar GCP en Local:*
 
    - Iniciar para conectarse: `gcloud auth application-default login`
-   - Setear la key_user: `set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\Carlos\Projects\durable-limiter-457100-f2-86169be06e38.json`
+   - Setear la key_user: `set GOOGLE_APPLICATION_CREDENTIALS=<JSON_KEY_GCP>`
 # MLOPS-COURSE-PROJECT-1
