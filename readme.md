@@ -119,6 +119,8 @@ Go to `http://localhost:8080` and follow the installation steps:
 
 ---
 
+## :rocket: Step 3: Build and Run Jenkins Container
+
 ## 🐍 Step 4: Install Python inside Jenkins Container
 
 ```bash
